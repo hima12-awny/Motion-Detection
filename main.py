@@ -55,6 +55,8 @@ while True:
                 # Add text indicating motion to the frame with color red
                 fontColor = (0, 0, 255)
                 cv.putText(mainFrame, 'Warning: Something Moving.', (10, 70), font, 1, fontColor, 2)
+                
+                # here you can take any action ex. (close doors, turn on the siren, ...)
     else:
         fontColor = (255, 0, 0)
 
