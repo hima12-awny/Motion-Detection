@@ -1,7 +1,7 @@
 # Motion-Detection
 motion detection with python, <br>
-it's for the security webcam<br>
-to take action if anything moves in the frame.<br>
+Computer vision project to improve the security webcam<br>
+to take action if anything <strong>Moves</strong> in the frame.<br>
 
 ## it requires
 1. `pip install opencv-python`
